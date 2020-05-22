@@ -1,0 +1,12 @@
+body{
+    background-color:pink;
+    color:white;
+}
+
+.content{
+    width: 100w;
+    min-height: 90vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
