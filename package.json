@@ -11,7 +11,7 @@
     "css-loader": "^3.5.3",
     "html-webpack-plugin": "^4.3.0",
     "install": "^0.13.0",
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
